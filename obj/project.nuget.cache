@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wi71lEzxozNkPEyd4U7el7ymfqplt2fqFMQAPVIy+S29Ip6ydncnRaQxshtAMlNFdDWbBsjSQXfp5dUdrMivRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isrro\\Projects\\C#\\ECommerce\\PaymentModuleApi\\PaymentModuleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isrro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\isrro\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\isrro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\isrro\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
